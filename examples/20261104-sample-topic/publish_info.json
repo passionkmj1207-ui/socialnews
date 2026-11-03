@@ -1,0 +1,22 @@
+{
+  "run_id": "20261104-sample-topic",
+  "primary_keyword": "가상 지표 A",
+  "related_keywords": ["B 산업 이익", "비용 시차", "영업이익률"],
+  "search_intent": "지표 상승이 왜 곧바로 산업 이익 증가로 이어지지 않는지 알고 싶은 독자",
+  "meta_description": "가상 지표 A가 오르는데 B 산업 이익은 왜 늦게 늘까요? 비용이 먼저 반영되는 시차의 원리와 확인할 지표를 정리했습니다.",
+  "alt_titles": [
+    "[예시] 지표 A가 올라도 B 산업 이익이 늦게 늘어나는 이유",
+    "[예시] 비용이 먼저, 매출은 나중에: B 산업 이익의 시차"
+  ],
+  "followup_topics": ["영업이익률은 무엇을 보여 줄까?", "재고 수준이 기업 이익에 미치는 영향"],
+  "sources": [
+    { "name": "예시통계청", "url": "https://example.com/stat/indicator-a", "base_date": "2026-09" },
+    { "name": "예시전자공시", "url": "https://example.com/disclosure/b-industry", "base_date": "2026-06-30" },
+    { "name": "예시국제기구", "url": "https://example.com/intl/b-industry", "base_date": "2026-06-30" },
+    { "name": "예시일보", "url": "https://example.com/news/1", "base_date": "2026-09" },
+    { "name": "예시경제", "url": "https://example.com/news/2", "base_date": "2026-09" }
+  ],
+  "needs_verification": [
+    "B 산업 비용 증가분(850억원 추산)의 원문 확인"
+  ]
+}

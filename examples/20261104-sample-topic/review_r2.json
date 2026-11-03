@@ -1,0 +1,25 @@
+{
+  "run_id": "20261104-sample-topic",
+  "round": 2,
+  "gate_a": {
+    "unlisted_figures": { "pass": true },
+    "false_source": { "pass": true },
+    "unit_or_date_error": { "pass": true },
+    "logic_error": { "pass": true },
+    "forecast_assertion": { "pass": true },
+    "question_mismatch": { "pass": true }
+  },
+  "scores": {
+    "accuracy": { "score": 5, "reason": "본문 수치가 모두 사용 가능한 팩트시트 항목과 일치하고 보조 수치는 보도 기준으로 표기됨" },
+    "seo_fit": { "score": 4, "reason": "핵심 키워드가 제목과 도입에 포함됨" },
+    "clarity": { "score": 5, "reason": "비유와 해석 구분이 명확함" },
+    "engagement": { "score": 4, "reason": "도입의 역설이 유지됨" },
+    "causal_logic": { "score": 5, "reason": "인과 경로와 성립 전제가 함께 제시됨" },
+    "originality": { "score": 4, "reason": "차별화 포인트가 글 전체에서 유지됨" },
+    "practical_value": { "score": 4, "reason": "관찰 지표가 구체적임" },
+    "prose_quality": { "score": 5, "reason": "문장이 자연스럽고 반복이 없음" }
+  },
+  "total": 36,
+  "fix_instructions": [],
+  "verdict": "pass"
+}
