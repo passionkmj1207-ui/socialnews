@@ -14,10 +14,30 @@ schemas/
   review.schema.json         검수 리포트   (5단계, 검수)
   publish_info.schema.json   발행 관리 정보 (7단계, 발행정보)
 scripts/validate.py          스키마 + 교차 규칙 검증기
+pipeline/                    오케스트레이터 (역할 프롬프트, 단계 실행기, 재작업 루프, CLI)
 examples/20261104-sample-topic/   가상 데이터로 만든 예시 작업 폴더
-tests/test_validate.py       검증기 테스트
+tests/                       검증기·오케스트레이터 테스트
 runs/                        실제 작업 폴더 (runs/<run_id>/)
 ```
+
+## 오케스트레이터 실행
+
+`pipeline/`은 지침서의 단계를 그대로 코드로 옮긴 실행기입니다. 역할마다 지침서에서 필요한 섹션만 뽑아 시스템 프롬프트로 만들고, 단계 사이에는 `runs/<run_id>/`의 산출물 파일만 넘깁니다.
+
+```bash
+export ANTHROPIC_API_KEY=...          # 필수
+python -m pipeline run                # 주제 없이: 비서실장이 웹 검색으로 직접 선정
+python -m pipeline run --topic "주제" # 주제 지정
+python -m pipeline report runs/<run_id>   # 사용자 보고(report.md) 생성
+```
+
+- 기본 모델은 `SOCIALNEWS_MODEL` 환경변수 또는 `--model`로 바꿉니다.
+- 주제 선정과 리서치 단계에는 서버 측 웹 검색 도구가 연결됩니다.
+- 모델 출력이 스키마나 교차 규칙을 어기면 오류 목록을 알려 주며 같은 역할에 최대 2회 다시 요청합니다.
+- 검수 판정이 `rework`이면 수정 후 재검수를 최대 2회 반복합니다. `pass`와 `below_standard`만 발행정보 단계로 넘어가며, `hold`는 발행정보 없이 보고로 끝납니다.
+- 마지막은 항상 사용자 승인 대기입니다. 자동 발행은 하지 않습니다.
+- 현재는 리서치를 한 번의 호출로 수행합니다. 서브 주제별 병렬 수집은 기획서에 서브 주제 필드를 추가한 뒤 확장할 수 있습니다.
+- 모델 호출 부분(`AnthropicBackend`)은 실제 API로 검증하지 않았고, 제어 흐름은 가짜 백엔드로 테스트합니다(`tests/test_pipeline.py`).
 
 ## 파이프라인과 산출물
 

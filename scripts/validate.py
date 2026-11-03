@@ -197,6 +197,9 @@ def _figure_tokens(text: str) -> list[tuple[str, str]]:
     for m in NUM.finditer(text):
         raw = m.group()
         nxt = text[m.end() : m.end() + 1]
+        prev = text[m.start() - 1 : m.start()] if m.start() > 0 else ""
+        if prev and "가" <= prev <= "힣":  # '아이뉴스24'처럼 한글에 붙은 숫자는 이름의 일부로 보고 제외
+            continue
         d = _digits(raw)
         if "." in raw or "," in raw or len(d) >= 3 or (nxt and nxt in "%배"):
             out.append((raw, d))

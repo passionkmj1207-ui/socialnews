@@ -1,0 +1,42 @@
+{
+  "run_id": "20261104-bok-hold-hawkish",
+  "primary_keyword": "기준금리 동결",
+  "related_keywords": ["한국은행 추가 인상", "기준금리 3.00%", "금통위 11월", "대출금리 영향"],
+  "search_intent": "기준금리가 동결됐는데 왜 추가 인상 얘기가 나오는지, 내 대출과 앞으로의 금리 방향에 어떤 의미인지 알고 싶은 독자",
+  "meta_description": "기준금리를 동결했는데 한국은행은 왜 추가 인상을 말할까요? 금리 수준과 방향 신호를 나눠 읽는 법, 대출 이자 영향, 앞으로 확인할 지표를 정리했습니다.",
+  "alt_titles": [
+    "기준금리 3.00% 동결, '긴축 끝'이 아닌 이유 3가지",
+    "금통위 동결인데 추가 인상? 금리 '수준'과 '방향 신호'로 읽는 법"
+  ],
+  "followup_topics": [
+    "근원물가란 무엇이고 왜 금리 결정에서 중요할까?",
+    "기준금리가 오르면 내 대출이자는 얼마나 늘어날까?",
+    "11월 금통위, 무엇을 보고 결정할까?"
+  ],
+  "sources": [
+    { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "base_date": "2026-10-22" },
+    { "name": "한국은행 2026년 3/4분기 실질 국내총생산(속보) 보도자료", "url": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11065944&menuNo=200690", "base_date": "2026-10-27" },
+    { "name": "한국은행 3분기 GDP 속보 기자설명회 자막", "url": "https://www.bok.or.kr/portal/bbs/B0000170/view.do?menuNo=200060&nttId=11065963", "base_date": "2026-10-27" },
+    { "name": "한국은행 홈페이지", "url": "https://www.bok.or.kr/portal/main/main.do", "base_date": "2026-10-22" },
+    { "name": "아이뉴스24 결정문 전문", "url": "https://m.inews24.com/v/2017755", "base_date": "2026-10-22" },
+    { "name": "경인일보", "url": "https://www.kyeongin.com/article/1773225", "base_date": "2026-10-22" },
+    { "name": "뉴스1", "url": "https://www.news1.kr/economy/trend/6328320", "base_date": "2026-10-22" },
+    { "name": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10916083", "base_date": "2026-10-27" },
+    { "name": "데일리안", "url": "https://www.dailian.co.kr/news/view/1706440/3%EB%B6%84%EA%B8%B0-GDP-10-%EC%84%B1%EC%9E%A5%EC%A0%84%EB%A7%9D%EC%B9%98-3%EB%B0%B0-2026", "base_date": "2026-10-27" },
+    { "name": "시사뉴스", "url": "https://www.sisa-news.com/news/article.html?no=278220", "base_date": "2026-10-27" },
+    { "name": "포인트데일리", "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323719", "base_date": "2026-10-27" },
+    { "name": "뉴스핌", "url": "https://www.newspim.com/news/view/20261103000090", "base_date": "2026-11-03" },
+    { "name": "서울신문", "url": "https://www.seoul.co.kr/news/economy/2026/11/03/20261103500016", "base_date": "2026-11-03" },
+    { "name": "아주경제", "url": "https://www.ajunews.com/view/20261103075323858", "base_date": "2026-11-03" },
+    { "name": "와우TV", "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611030022", "base_date": "2026-11-03" },
+    { "name": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611030935256393", "base_date": "2026-11-03" },
+    { "name": "SBS Biz", "url": "https://biz.sbs.co.kr/amp/article/20000343023", "base_date": "2026-11-26 일정" },
+    { "name": "시크릿링커", "url": "https://secretlinker.co.kr/?p=6521", "base_date": "2026-11-26 일정" }
+  ],
+  "needs_verification": [
+    "11월 금통위 개최일(11월 26일)을 한국은행 일정 공지로 재확인",
+    "10월 소비자물가(2.8%, 근원 2.8%, 석유류 14.9%)를 국가데이터처 원문으로 확인",
+    "3분기 민간소비(-0.2%)와 한은 8월 전망 3분기 성장률(0.3%)을 한국은행 보도자료 첨부 원문으로 확인",
+    "물가안정목표 2.0%와 7·8월 인상 이력(2.50%에서 3.00%)을 한국은행 원문으로 확인"
+  ]
+}

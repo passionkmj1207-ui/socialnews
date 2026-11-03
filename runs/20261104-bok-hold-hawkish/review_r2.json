@@ -1,0 +1,49 @@
+{
+  "run_id": "20261104-bok-hold-hawkish",
+  "round": 2,
+  "gate_a": {
+    "unlisted_figures": { "pass": true },
+    "false_source": { "pass": true },
+    "unit_or_date_error": { "pass": true },
+    "logic_error": { "pass": true },
+    "forecast_assertion": { "pass": true },
+    "question_mismatch": { "pass": true }
+  },
+  "scores": {
+    "accuracy": {
+      "score": 5,
+      "reason": "0.3%에 '보도 기준'이 붙고 출처 문구가 실제 표기 범위와 일치하며, 수요 측 압력 서술이 팩트시트 항목 16에 추가되어 대조 가능"
+    },
+    "seo_fit": {
+      "score": 4,
+      "reason": "핵심 키워드는 제목·도입에 있고 관련 키워드 일부는 본문에 그대로 쓰이지 않음. 발행 정보의 메타 설명과 후속 주제로 보완 가능"
+    },
+    "clarity": {
+      "score": 5,
+      "reason": "사실과 해석 구분 문구가 명확하고 비유의 한계도 밝힘"
+    },
+    "engagement": {
+      "score": 4,
+      "reason": "질문형 도입과 한 줄 답이 유지됨"
+    },
+    "causal_logic": {
+      "score": 5,
+      "reason": "인과 경로, 반례, 인상이 조건부라는 점이 함께 제시됨"
+    },
+    "originality": {
+      "score": 4,
+      "reason": "수준과 방향 신호의 구분이 마지막 독서법까지 일관됨"
+    },
+    "practical_value": {
+      "score": 4,
+      "reason": "이자 계산과 관찰 지표 4가지, 시나리오가 제공됨"
+    },
+    "prose_quality": {
+      "score": 4,
+      "reason": "문장이 자연스럽고 반복이 적음. 경미한 과장 표현 하나가 남음"
+    }
+  },
+  "total": 35,
+  "fix_instructions": [],
+  "verdict": "pass"
+}

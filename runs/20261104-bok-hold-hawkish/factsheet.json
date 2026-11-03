@@ -1,0 +1,422 @@
+{
+  "run_id": "20261104-bok-hold-hawkish",
+  "collected_at": "2026-11-04T00:50:00+09:00",
+  "items": [
+    {
+      "id": 1,
+      "kind": "fact",
+      "content": "한국은행 기준금리를 연 3.00%로 유지(동결). 2026년 10월 22일 통화정책방향",
+      "value": "3.00",
+      "unit": "%",
+      "comparison_basis": null,
+      "scope": "한국은행 기준금리",
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "tier": 3, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "core",
+      "usable": true,
+      "note": "결정문 원문(영문본) 직접 열람"
+    },
+    {
+      "id": 2,
+      "kind": "fact",
+      "content": "금통위원 전원이 동결에 찬성(만장일치)",
+      "value": 7,
+      "unit": "명",
+      "comparison_basis": null,
+      "scope": "금융통화위원 7명 전원",
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "tier": 3, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "supporting",
+      "usable": true
+    },
+    {
+      "id": 3,
+      "kind": "fact",
+      "content": "9월 소비자물가 상승률",
+      "value": "2.9",
+      "unit": "%",
+      "comparison_basis": "전년 동월 대비",
+      "scope": "소비자물가 총지수. 결정문이 인용한 9월 수치",
+      "base_date": "2026-09",
+      "sources": [
+        { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "tier": 3, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "core",
+      "usable": true
+    },
+    {
+      "id": 4,
+      "kind": "fact",
+      "content": "9월 근원물가(식료품·에너지 제외) 상승률",
+      "value": "2.8",
+      "unit": "%",
+      "comparison_basis": "전년 동월 대비",
+      "scope": "식료품 및 에너지 제외 지수. 결정문이 인용한 9월 수치",
+      "base_date": "2026-09",
+      "sources": [
+        { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "tier": 3, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "supporting",
+      "usable": true
+    },
+    {
+      "id": 5,
+      "kind": "fact",
+      "content": "3분기 실질 GDP 성장률(속보)",
+      "value": "1.0",
+      "unit": "%",
+      "comparison_basis": "전기 대비",
+      "scope": "실질 국내총생산, 2026년 10월 27일 발표 속보치",
+      "base_date": "2026-Q3",
+      "sources": [
+        { "name": "한국은행 2026년 3/4분기 실질 국내총생산(속보) 보도자료", "url": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11065944&menuNo=200690", "tier": 3, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "core",
+      "usable": true,
+      "note": "보도자료 본문 요약 직접 열람. 전년 동기 대비 3.4%, GDI 전기 대비 3.4% 증가도 같은 페이지에서 확인"
+    },
+    {
+      "id": 6,
+      "kind": "fact",
+      "content": "한국은행이 8월 경제전망에서 내다본 3분기 성장률",
+      "value": "0.3",
+      "unit": "%",
+      "comparison_basis": "전기 대비",
+      "scope": "2026년 8월 경제전망의 3분기 전망치",
+      "base_date": "2026-08-27",
+      "sources": [
+        { "name": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10916083", "tier": 4, "opened": false },
+        { "name": "데일리안", "url": "https://www.dailian.co.kr/news/view/1706440/3%EB%B6%84%EA%B8%B0-GDP-10-%EC%84%B1%EC%9E%A5%EC%A0%84%EB%A7%9D%EC%B9%98-3%EB%B0%B0-2026", "tier": 4, "opened": false },
+        { "name": "시사뉴스", "url": "https://www.sisa-news.com/news/article.html?no=278220", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "원문 미확인이나 독립된 세 매체가 일치. 본문에 '한은 8월 전망 기준'으로 표기"
+    },
+    {
+      "id": 7,
+      "kind": "fact",
+      "content": "한국은행의 8월 성장률 전망(올해 3.3%, 내년 2.9%). 10월 결정문은 올해와 내년 성장률이 이를 상당폭 상회할 것으로 예상",
+      "value": "3.3",
+      "unit": "%",
+      "comparison_basis": null,
+      "scope": "2026년 8월 경제전망의 올해 연간 성장률. 내년 전망은 2.9%",
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "tier": 3, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "core",
+      "usable": true
+    },
+    {
+      "id": 8,
+      "kind": "fact",
+      "content": "10월 소비자물가 상승률. 9월 2.9%에 이어 두 달 연속 둔화",
+      "value": "2.8",
+      "unit": "%",
+      "comparison_basis": "전년 동월 대비",
+      "scope": "소비자물가 총지수, 2026년 11월 3일 국가데이터처 발표",
+      "base_date": "2026-10",
+      "sources": [
+        { "name": "뉴스핌", "url": "https://www.newspim.com/news/view/20261103000090", "tier": 4, "opened": false },
+        { "name": "서울신문", "url": "https://www.seoul.co.kr/news/economy/2026/11/03/20261103500016", "tier": 4, "opened": false },
+        { "name": "아주경제", "url": "https://www.ajunews.com/view/20261103075323858", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "국가데이터처 원문 미열람. 독립된 세 매체가 일치. 본문에 '발표 보도 기준'으로 표기"
+    },
+    {
+      "id": 9,
+      "kind": "fact",
+      "content": "10월 근원물가(식료품·에너지 제외) 상승률. 9월과 같은 수준",
+      "value": "2.8",
+      "unit": "%",
+      "comparison_basis": "전년 동월 대비",
+      "scope": "식료품 및 에너지 제외 지수, 2026년 11월 3일 국가데이터처 발표",
+      "base_date": "2026-10",
+      "sources": [
+        { "name": "뉴스핌", "url": "https://www.newspim.com/news/view/20261103000090", "tier": 4, "opened": false },
+        { "name": "아주경제", "url": "https://www.ajunews.com/view/20261103075323858", "tier": 4, "opened": false },
+        { "name": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611030935256393", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "국가데이터처 원문 미열람. 독립된 세 매체가 일치"
+    },
+    {
+      "id": 10,
+      "kind": "fact",
+      "content": "10월 석유류 가격 상승률. 소비자물가 상승률을 0.56%p 끌어올림",
+      "value": "14.9",
+      "unit": "%",
+      "comparison_basis": "전년 동월 대비",
+      "scope": "공업제품 중 석유류, 2026년 11월 3일 국가데이터처 발표",
+      "base_date": "2026-10",
+      "sources": [
+        { "name": "뉴스핌", "url": "https://www.newspim.com/news/view/20261103000090", "tier": 4, "opened": false },
+        { "name": "서울신문", "url": "https://www.seoul.co.kr/news/economy/2026/11/03/20261103500016", "tier": 4, "opened": false },
+        { "name": "와우TV", "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611030022", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "국가데이터처 원문 미열람. 독립된 세 매체가 일치"
+    },
+    {
+      "id": 11,
+      "kind": "fact",
+      "content": "3분기 민간소비 증감률. 약 4년 만에 뒷걸음. 성장은 설비투자와 정부소비, 반도체 중심으로 이루어짐",
+      "value": "-0.2",
+      "unit": "%",
+      "comparison_basis": "전기 대비",
+      "scope": "지출항목별 민간소비, 2026년 10월 27일 발표 속보치",
+      "base_date": "2026-Q3",
+      "sources": [
+        { "name": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10916083", "tier": 4, "opened": false },
+        { "name": "포인트데일리", "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323719", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "한은 보도자료 첨부 원문 미열람. 두 매체가 일치. 본문에 '보도 기준'으로 표기"
+    },
+    {
+      "id": 12,
+      "kind": "fact",
+      "content": "한국은행의 물가안정목표",
+      "value": "2.0",
+      "unit": "%",
+      "comparison_basis": null,
+      "scope": "소비자물가 상승률 기준 물가안정목표",
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 홈페이지", "url": "https://www.bok.or.kr/portal/main/main.do", "tier": 3, "opened": false },
+        { "name": "경인일보", "url": "https://www.kyeongin.com/article/1773225", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "한은 홈페이지는 검색 결과에서만 확인, 직접 열람 실패. 두 출처 일치"
+    },
+    {
+      "id": 13,
+      "kind": "fact",
+      "content": "서울 아파트 매매가격 9월 상승률(한국부동산원)",
+      "value": "0.74",
+      "unit": "%",
+      "comparison_basis": null,
+      "scope": "서울 아파트 매매가격지수",
+      "base_date": "2026-09",
+      "sources": [
+        { "name": "비즈워치", "url": "https://news.bizwatch.co.kr/article/finance/2026/10/23/0025", "tier": 4, "opened": true }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": false,
+      "note": "원문 미확인이고 출처가 1곳뿐이라 본문에서 제외. 주택시장은 결정문의 정성 표현만 사용"
+    },
+    {
+      "id": 14,
+      "kind": "fact",
+      "content": "9월 전 금융권 가계대출 감소폭",
+      "value": "2조2000억",
+      "unit": "원",
+      "comparison_basis": "전월 대비",
+      "scope": "전 금융권 가계대출",
+      "base_date": "2026-09",
+      "sources": [
+        { "name": "비즈워치", "url": "https://news.bizwatch.co.kr/article/finance/2026/10/23/0025", "tier": 4, "opened": true }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": false,
+      "note": "원문 미확인이고 출처가 1곳뿐이라 본문에서 제외"
+    },
+    {
+      "id": 15,
+      "kind": "fact",
+      "content": "결정문 평가: 가계대출은 기타대출 순상환으로 감소 전환했지만 주택관련대출은 증가세를 이어갔고, 수도권 주택가격 오름세가 다시 확대되어 서울·수도권 주택시장과 가계부채 관련 금융불균형 위험에 유의할 필요가 있다",
+      "value": null,
+      "unit": null,
+      "comparison_basis": null,
+      "scope": null,
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "tier": 3, "opened": true },
+        { "name": "아이뉴스24 결정문 전문", "url": "https://m.inews24.com/v/2017755", "tier": 4, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "supporting",
+      "usable": true
+    },
+    {
+      "id": 16,
+      "kind": "fact",
+      "content": "결정문: 물가는 높아진 비용압력의 전이가 지속되고 수요측 압력도 점차 커지면서 상당기간 목표수준을 상회하는 오름세를 나타낼 것으로 보이며, 이후 추가 기준금리 인상의 시기와 속도는 물가·경기 흐름과 금융안정 상황을 점검하며 결정하겠다고 밝힘. 중동사태와 주요국 통화·재정정책 관련 불확실성이 높아졌다고 평가",
+      "value": null,
+      "unit": null,
+      "comparison_basis": null,
+      "scope": null,
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "tier": 3, "opened": true },
+        { "name": "아이뉴스24 결정문 전문", "url": "https://m.inews24.com/v/2017755", "tier": 4, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "supporting",
+      "usable": true
+    },
+    {
+      "id": 17,
+      "kind": "fact",
+      "content": "결정문은 두 차례 인상의 파급영향을 점검할 필요가 있다고 판단. 7월과 8월 두 차례 연속 인상(2.50%에서 3.00%)한 이후 첫 동결",
+      "value": "0.50",
+      "unit": "%p",
+      "comparison_basis": null,
+      "scope": "두 차례 인상의 합계. 2.50%에서 3.00%로 오른 폭을 차이로 계산",
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 홈페이지", "url": "https://www.bok.or.kr/portal/main/main.do", "tier": 3, "opened": false },
+        { "name": "경인일보", "url": "https://www.kyeongin.com/article/1773225", "tier": 4, "opened": false },
+        { "name": "뉴스1", "url": "https://www.news1.kr/economy/trend/6328320", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "'2.50%에서 3.00%로 두 차례 인상'은 한은 홈페이지 통화신용정책보고서 요약(검색 결과)에서 확인. 개별 인상 폭(각 0.25%p)은 확인하지 못해 본문에 쓰지 않음"
+    },
+    {
+      "id": 18,
+      "kind": "interpretation_candidate",
+      "content": "단순 계산: 변동금리 대출 1억원에 두 차례 인상분 0.50%p가 전액 반영된다고 가정하면 연 이자 부담이 50만원 늘어남(1억원 × 0.50%p)",
+      "value": 50,
+      "unit": "만원",
+      "comparison_basis": null,
+      "scope": "산술 예시. 실제는 대출 종류, 가산금리, 금리 반영 시점에 따라 다름",
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 홈페이지", "url": "https://www.bok.or.kr/portal/main/main.do", "tier": 3, "opened": false },
+        { "name": "경인일보", "url": "https://www.kyeongin.com/article/1773225", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "산술 결과이므로 가정을 본문에 명시. 근거 수치는 id=17"
+    },
+    {
+      "id": 19,
+      "kind": "interpretation_candidate",
+      "content": "한은 경제통계국장은 3분기 GDP 설명회에서, 금리 인상 효과가 내수에 나타났느냐는 질문에 시차가 있어 지금 나타났다고 보기 어렵고 더 지켜봐야 한다는 취지로 답함",
+      "value": null,
+      "unit": null,
+      "comparison_basis": null,
+      "scope": null,
+      "base_date": "2026-10-27",
+      "sources": [
+        { "name": "한국은행 3분기 GDP 속보 기자설명회 자막", "url": "https://www.bok.or.kr/portal/bbs/B0000170/view.do?menuNo=200060&nttId=11065963", "tier": 3, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "검색 결과에 노출된 자막 요약 기준. 직접 인용하지 않고 취지만 서술"
+    },
+    {
+      "id": 20,
+      "kind": "fact",
+      "content": "한은은 11월 3일 물가상황 점검회의에서 소비자물가 상승률이 근원물가의 높은 오름세를 감안할 때 2%대 후반 수준을 이어갈 것으로 전망",
+      "value": null,
+      "unit": null,
+      "comparison_basis": null,
+      "scope": null,
+      "base_date": "2026-11-03",
+      "sources": [
+        { "name": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202611030935256393", "tier": 4, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "한은 원문 미열람. 단일 언론 보도라 본문에 '보도에 따르면'으로 표기"
+    },
+    {
+      "id": 21,
+      "kind": "fact",
+      "content": "한국은행 11월 금융통화위원회 정기회의 개최 예정일 11월 26일",
+      "value": null,
+      "unit": null,
+      "comparison_basis": null,
+      "scope": null,
+      "base_date": "2026-11-26",
+      "sources": [
+        { "name": "SBS Biz", "url": "https://biz.sbs.co.kr/amp/article/20000343023", "tier": 4, "opened": false },
+        { "name": "시크릿링커", "url": "https://secretlinker.co.kr/?p=6521", "tier": 5, "opened": false }
+      ],
+      "original_checked": false,
+      "grade": "supporting",
+      "usable": true,
+      "note": "한은 일정 공지 원문 미확인(첨부파일 확인 불가). 두 출처 일치. 본문에 '알려진 일정, 공지 재확인 필요'로 표기"
+    },
+    {
+      "id": 22,
+      "kind": "interpretation_candidate",
+      "content": "금리 정책은 '수준'(현재 기준금리)과 '방향 신호'(앞으로 움직일 가능성이 큰 쪽)로 나누어 읽을 수 있다. 이번 결정은 수준은 유지하면서 방향 신호는 추가 인상 쪽에 남긴 것으로 해석된다",
+      "value": null,
+      "unit": null,
+      "comparison_basis": null,
+      "scope": null,
+      "base_date": "2026-10-22",
+      "sources": [
+        { "name": "한국은행 통화정책방향 결정문(영문)", "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng", "tier": 3, "opened": true }
+      ],
+      "original_checked": true,
+      "grade": "supporting",
+      "usable": true,
+      "note": "해석 후보. 결정문의 'further increases' 문구에 근거. 본문에서 해석으로 구분하여 서술"
+    }
+  ],
+  "counter_evidence": [
+    {
+      "claim": "동결에도 방향 신호가 인상 쪽이므로 추가 인상이 이어질 것이다",
+      "note": "10월 소비자물가는 2.8%로 두 달 연속 둔화했고, 3분기 민간소비는 -0.2%로 내수가 약하다. 인상 효과는 시차를 두고 나타나므로 한은 스스로 데이터를 보고 결정하겠다고 했다. 인상은 확정이 아니라 조건부이다"
+    },
+    {
+      "claim": "성장이 예상보다 높아 인상 여력이 있다",
+      "note": "3분기 성장은 반도체 설비투자와 정부소비가 이끌었고 서비스업과 민간소비는 부진했다. 성장의 질이 고르지 않아 금리를 더 올릴 때 내수 부담이 클 수 있다"
+    }
+  ],
+  "unverified": [
+    {
+      "item": "서울 아파트 매매가격 9월 상승률 0.74%, 9월 가계대출 감소폭 2조2000억원",
+      "reason": "비즈워치 단일 출처이고 원문(한국부동산원, 한은)을 확인하지 못해 사용 불가 처리"
+    },
+    {
+      "item": "10월 소비자물가동향의 국가데이터처 원문",
+      "reason": "정책브리핑 등 공식 게시 페이지를 열지 못함. 독립된 여러 언론 보도가 일치해 보조 수치로만 사용"
+    },
+    {
+      "item": "한은 11월 금통위 개최일(11월 26일)",
+      "reason": "한은 일정 공지의 첨부파일을 열지 못함. 두 출처 일치"
+    },
+    {
+      "item": "한은 총재 기자간담회 모두발언의 국문 전문",
+      "reason": "영문본은 열람, 국문본은 미열람"
+    },
+    {
+      "item": "미국 연준 금리 전망, 원/달러 환율 영향",
+      "reason": "공식 자료 확인이 부족해 이번 글의 범위에서 제외"
+    }
+  ]
+}

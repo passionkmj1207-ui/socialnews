@@ -119,6 +119,12 @@ def test_article_figure_not_in_factsheet_is_warned(run):
     assert any("7.7" in w for w in warnings)
 
 
+def test_digits_attached_to_hangul_are_not_treated_as_figures(run):
+    article = run / "article.md"
+    article.write_text(article.read_text(encoding="utf-8") + "\n- 출처: 아이뉴스24 보도\n", encoding="utf-8")
+    assert validate.validate_run(run, complete=True).warnings == []
+
+
 def test_incomplete_run_requires_files_only_when_complete(run):
     (run / "publish_info.json").unlink()
     assert errors_of(run, complete=False) == []

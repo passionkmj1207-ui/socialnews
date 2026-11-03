@@ -1,0 +1,67 @@
+{
+  "run_id": "20261104-bok-hold-hawkish",
+  "round": 1,
+  "gate_a": {
+    "unlisted_figures": { "pass": true },
+    "false_source": {
+      "pass": false,
+      "locations": [
+        "'자료 출처 및 기준일' 마지막 문장: 원문 미확인 수치를 모두 '보도 기준'으로 표기했다고 쓰지만, '10월 22일, 무슨 일이 있었나'의 8월 전망 0.3%에는 표기가 없음"
+      ]
+    },
+    "unit_or_date_error": { "pass": true },
+    "logic_error": { "pass": true },
+    "forecast_assertion": { "pass": true },
+    "question_mismatch": { "pass": true }
+  },
+  "scores": {
+    "accuracy": {
+      "score": 3,
+      "reason": "수치는 모두 팩트시트와 일치하나 출처 표기 문구가 실제 표기와 다르고, '수요 측 압력' 서술이 팩트시트 항목에 없어 추적이 안 됨"
+    },
+    "seo_fit": {
+      "score": 4,
+      "reason": "핵심 키워드가 제목과 도입에 있으나 관련 키워드 '금통위 11월', '대출금리 영향'은 본문에 그대로 쓰이지 않음"
+    },
+    "clarity": {
+      "score": 5,
+      "reason": "수준과 방향 신호의 구분, 에어컨 비유의 한계 설명이 명확함"
+    },
+    "engagement": {
+      "score": 4,
+      "reason": "질문형 도입이 좋으나 사실 정리 구간이 다소 길게 이어짐"
+    },
+    "causal_logic": {
+      "score": 5,
+      "reason": "동결인데 인상 신호인 이유와 지금 올리지 않는 이유가 조건과 반례까지 포함해 단계적으로 설명됨"
+    },
+    "originality": {
+      "score": 4,
+      "reason": "'수준 대 방향 신호'라는 기획 포인트가 글 전체에 유지됨"
+    },
+    "practical_value": {
+      "score": 4,
+      "reason": "이자 계산 예시와 관찰 지표 4가지가 제시되나 가정이 단순함"
+    },
+    "prose_quality": {
+      "score": 4,
+      "reason": "문장이 자연스러우나 '목표보다 한참 위'는 2.9% 대 2.0%에 비해 다소 과한 표현"
+    }
+  },
+  "total": 33,
+  "fix_instructions": [
+    {
+      "location": "'10월 22일, 무슨 일이 있었나' 둘째 항목의 '0.3%'와 '자료 출처 및 기준일' 마지막 문장",
+      "problem": "원문 미확인 수치를 모두 본문에 '보도 기준'으로 표기했다고 했지만 8월 전망 0.3%에는 표기가 없어 출처 표기 문구가 사실과 다름",
+      "direction": "0.3%에 '(보도 기준)'을 붙이고, 마지막 문장을 실제로 표기한 범위(10월 물가, 3분기 민간소비, 8월 전망 3분기 성장률)에 맞게 고침",
+      "origin": "false_source"
+    },
+    {
+      "location": "'동결인데 왜 긴축 지속일까' 목록 1번 마지막 문장(수요 측 압력)",
+      "problem": "결정문에 근거가 있으나 팩트시트 항목에 해당 서술이 없어 검수에서 대조할 수 없음",
+      "direction": "리서치가 팩트시트 항목 16에 결정문의 '비용압력 전이와 수요측 압력 확대' 서술을 추가하고, 원고 문장은 유지",
+      "origin": "accuracy"
+    }
+  ],
+  "verdict": "rework"
+}
