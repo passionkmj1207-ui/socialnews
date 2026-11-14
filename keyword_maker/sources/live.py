@@ -66,9 +66,24 @@ class LiveSources:
         return feedparser.parse(self._get(url, headers=headers).content)
 
     # ---------- Yahoo Finance ----------
+    def _get_retry(self, urls: list[str], tries: int = 3):
+        """429(요청 제한)이면 대기 후 재시도하고, 호스트를 번갈아 시도."""
+        last: Exception | None = None
+        for attempt in range(tries):
+            for url in urls:
+                try:
+                    return self._get(url)
+                except requests.HTTPError as e:
+                    last = e
+                    if e.response is None or e.response.status_code not in (429, 500, 502, 503):
+                        raise
+            time.sleep(6 * (attempt + 1))
+        raise last  # type: ignore[misc]
+
     @safe(list)
     def trending_tickers(self) -> list[str]:
-        data = self._get("https://query1.finance.yahoo.com/v1/finance/trending/US?count=25").json()
+        urls = [f"https://{h}.finance.yahoo.com/v1/finance/trending/US?count=25" for h in ("query1", "query2")]
+        data = self._get_retry(urls).json()
         quotes = data["finance"]["result"][0]["quotes"]
         return [q["symbol"] for q in quotes]
 
@@ -220,7 +235,7 @@ class LiveSources:
         import yt_dlp
         opts = {"quiet": True, "extract_flat": True, "skip_download": True, "no_warnings": True}
         with yt_dlp.YoutubeDL(opts) as ydl:
-            info = ydl.extract_info(f"ytsearchdate10:{query}", download=False)
+            info = ydl.extract_info(f"ytsearch10:{query}", download=False)  # 최신 yt-dlp는 ytsearchdate 미지원
         entries = [e for e in (info or {}).get("entries", []) if e]
         views = sum(int(e.get("view_count") or 0) for e in entries)
         time.sleep(self.cfg.sleep)
