@@ -1,0 +1,30 @@
+name: daily-keywords
+
+on:
+  schedule:
+    # 미국 정규장 마감(한국 새벽 5~6시) 직후, 한국시간 화~토 아침 6시 30분 (UTC 월~금 21:30)
+    - cron: "30 21 * * 1-5"
+  workflow_dispatch: {}   # Actions 탭에서 수동 실행
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m keyword_maker --top 15
+      - name: 결과 저장(커밋)
+        run: |
+          git config user.name  "keyword-bot"
+          git config user.email "keyword-bot@users.noreply.github.com"
+          git add output
+          git diff --cached --quiet || git commit -m "daily keywords $(date -u +%F)"
+          git push
