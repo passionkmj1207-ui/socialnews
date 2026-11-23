@@ -1,0 +1,606 @@
+{
+  "date": "2026-11-23",
+  "demo": false,
+  "items": [
+    {
+      "keyword": "엔비디아 주가 급등 이유",
+      "topic": "엔비디아 주가가 급등한 배경: 엔비디아의 계약·투자 발표, 사업에 미칠 영향",
+      "post_type": "이슈 해설형",
+      "category": "미국주식",
+      "ticker": "NVDA",
+      "score": 73.8,
+      "related_keywords": [
+        "엔비디아 주가 원화 가격",
+        "엔비디아 주가 전망",
+        "엔비디아 주가 원화",
+        "미국 엔비디아 주가",
+        "엔비디아 주가 하락 원인",
+        "엔비디아 주가 급락",
+        "엔비디아 주가 토스",
+        "엔비디아 주가 하락"
+      ],
+      "source_links": [
+        "https://finance.yahoo.com/video/ex-nvidia-employee-stability-and-accountability-can-coexist-221105947.html",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1dYSnFoOUpqR0pkTEl6dXlPaDV6NWhETG9mYkdzRkk3X2lkdlp2cW5ZOVl4Y1RkcnFoeWlHZmlCRVR1LWd5TmZZQlJhSGU4dGpvTldMSmRjaGVhaVJFczVGZk1vb1J6YTVPNkRGQzFtTFBqWUFodkZoM09ZS1FjSXNlMGRGUW8yWXlmVFF2bmtuQk1vNno4V2hnQ3RNVmVKLXRlZTk3T0ZaZFYtUld2SFFOeW0?oc=5",
+        "https://finance.yahoo.com/video/nvidias-stability-is-a-systemic-issue-for-the-us-now-this-ai-ceo-says-220035003.html",
+        "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HX1JJUGdfTEQxWnd0Nmw0U2l0T1BCVTljd3N5NWs1Slc1Wlc1b2tPemFfWXVpNHg4XzA1S050OThlZktCVzJscXlVZGRFSV85cmI5SnNpZEtlSHRLcE53Ymx2NDRsai1Pd09vcU1aR25Wd0hFNXVN?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "CoreWeave 실적 발표",
+      "topic": "CoreWeave 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "CRWV",
+      "score": 60.7,
+      "related_keywords": [
+        "coreweave 주가",
+        "coreweave",
+        "coreweave 회사",
+        "coreweave 뜻",
+        "coreweave 실적",
+        "coreweave 주식",
+        "coreweave inc",
+        "coreweave 데이터"
+      ],
+      "source_links": [
+        "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html",
+        "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-crowdstrike-zscaler/?src=A00220&yptr=yahoo",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTNwWTl2VDZZRldHMXVVT2Q3dzZ3V3R2cllwN3AyX2pILS01RlIta2lCNUphakZBVXVLN1VQSHJSaFplTHFOMXVLNmZvbnFLQkR6blhsd3paSHlmSXJFc3FmQUZKNlBYYTdJOWJ1V1ZMMm9EQk5MVmZYMjFUSEJoUmV2VGU3eTRGUm5qYjJSQTFvUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSk9pSkVfbFRIWW9YMHByc09VekNES0c1eDNOWEIyTlBmb1hQdlJqMGVEcnRfajUwS1V0Rm93dXZtdUJNck9WUEh6VGdpWXNQNk1yT2xBNS1zU3NCTDJNYUpVSVhMM0oxby1YaXhnX3paYUVXSmMwVlQ4aWdIVThWUGF4cDl5STlPZnRoQ251MVFCWWxFRDRrcFUzMDI2QWx4bjNpc0ZPOGpINUZfOTJCX3ZOclYwSjdWNUU3X054ZjVqMVlwbEE0OTl0Z1FsNXJQOTh1MEdINjhpemhGWmRYTw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTR2UG44X0ZGTUhfb2hVYm9OUW5lVDlOcjE1RnFRSHBMcUFnOFJYOEFWamplekd4N0s0LVBzSU5VM2QxSDQySXZXRkhDbVVUTURjRFMyM3VOdkVvZ0c2VzBVSUdIU0FkaXFWRERvOG1aY0MyOHRneEEwcHhuODhxdVlFNy1uYkFrLXpsNjZwb1h2dmF2cjdsVWF5OVZrTzhvWnJhVnVlb1Q?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "크라우드스트라이크 실적 발표",
+      "topic": "크라우드스트라이크 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "CRWD",
+      "score": 53.5,
+      "related_keywords": [
+        "크라우드스트라이크 주가",
+        "크라우드 스트라이크 홀딩스 주가",
+        "크라우드 스트라이크 홀딩스",
+        "크라우드 스트라이크 주식",
+        "크라우드스트라이크 코리아",
+        "크라우드 스트라이크 토스",
+        "크라우드 스트라이크 실적",
+        "크라우드스트라이크 매출"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEJxU1BROXJWMjhPdTJBTG9MQkdTS0dIQlp3TVJyQWpaZEtzX0xnb0UyenhaeUk2ODZwRmVOMHUyZkh4azNRYngwYVlOTU4yclZNdlVINDVxYVJKZHpOX3RFUUVhbEk0dzF1b0NlQ09YNWl0MWdzc0pWc0ZvZ1lLTFZn?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY3p4S2hDbk5VNUxQODdBUVBCNklBTGhwdU13XzNLU3BPUGtmdmhsT1VjN2ZnWnFhcy1EZ2NBaU0tSldxRS1qRVFJNjduRy1iX3IyTU9TOERYREhlOEJ3MHZXTEdtUVdybjlMQWRDWllYMUJubHpoWGVyOXhlWDhSOHBjcTJQcndTbUx2bHFXYjNZUQ?oc=5",
+        "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-crowdstrike-zscaler/?src=A00220&yptr=yahoo",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWN4czFDeG5fTW94Nm0yZXlZd2NwVkVmZHhUdmNMdjBtRWoyNmZSRHpyQXJWQkRpRFl3QmpnclhEMmRCbEhQeVNGLTVLNEtmY2xYVDFmUl8ySGtqU1lCUjlRdkl6TndXXzQ0Znp4U3o5WHpudmQ4TnZWQlotbnZocWttWXlZQ0tUdFl2bjAwdkRCVGhFODlmY2hPcFl3Q1lWdzdZ?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gb1NJc213U3JRbHpTNS1TT2lENXJ5RFY4aGQ3TWl0ZWZGajJMNUNpRDcwSWFtTm81ZzZackhuQ3g4cG5qbi1sckItb08tSnFld0hHTW5NVXVGYzZzRXdxanhIUVg?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "델 실적 발표",
+      "topic": "델 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "DELL",
+      "score": 49.2,
+      "related_keywords": [
+        "델 주가 토스",
+        "델 테크놀로지",
+        "델피노",
+        "델 노트북",
+        "델 모니터",
+        "델보",
+        "델라라나",
+        "델리비"
+      ],
+      "source_links": [
+        "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-crowdstrike-zscaler/?src=A00220&yptr=yahoo",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVhQRC1QZ1hrUnhueFI5YWgwV2lmbVEwdVhNOHdoa0lBRHFrM2JKNlVEQkNuR0ZOZl9ZWllkQ29SWlJFSUFpNnhOY1FvLVhMd3NydzUzbFF6eHl1ZTNWaWNtMnlqYUpnVEJvY24tRmdOX0h4d21kQndMT3JESDNJR2RBY0EwWDVTaXJMMThSOVBieEt4Ym5VN256UndhVHUzeVlFREtzbjhTai13OER3X3lsVUtfeFdnZ2NXYm94dWQ3T00?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmIydTRSb3NJS3RmTEI1VnA3U3lKNG4tNmFodFR1UEZXMHA2aFRFT3RkZ0ZqQjd2MER1Y3lpenVJeEh0TWVUMzlCNzhfcEFvNEtFRFc0Z0lZWWlRWVQ5aG5nSzk4cmd5WjA0aWFLSGZCNEs4RGhGTUFzQVJyeTdVT3k5UVFTdlVzczdIalVpWGVYQlA3NGpvMVU4ZnRwakEwUGc?oc=5",
+        "https://www.barrons.com/articles/defensive-stocks-ai-tyson-walmart-55bd8545?siteid=yhoof2&yptr=yahoo",
+        "https://247wallst.com/videos/5-stocks-up-20-or-more-on-monday-following-nvidia-ceo-jensen-huangs-return/"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "AMD 실적 발표",
+      "topic": "AMD 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "AMD",
+      "score": 48.8,
+      "related_keywords": [
+        "amd 주가",
+        "amd 주가 급락",
+        "amd 주가 토스",
+        "amd 주가 분석",
+        "amd 주가 하락 이유",
+        "amd 주가 상승 이유",
+        "AMD 주가전망",
+        "amd 주가 목표"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0ZySWswTGNQT3V0TE4tNG1BdjdkTTAxV2duZ3ZHTXJTaTExZjNkWUNBUHhVdUY3VC1pRG9XQUt0UzN0bXZGOXhnbXNfSUt6bW9vcU1GZENEY2VhUG1pZmFpdmh3bHVtV1BsS1VkbEFOYTVtMXBjb0U1ZFAtVy04TjhZMXJOWXJneUZtQ0lSOTlqX1haZ0l2eQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTV5bmxick9rcmZBZGVWaTRsR1RKWEFlRW4zZmQtbW5tN09nZ3J5T1RpMVRYSlQyMHZna0loWG5HazM2bUZRUlU5SkhCZXFmU2s2M3RhZkhQZ2tyTWdwQVZGU2RpNi02aWszejg0RC01OEhoQkhxNUdqN1hFUnJtM3VidlJtUHBWSVRKck1qekIyWEs1aHY4Y2wwRU0tSDZhWVptMldR?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWWt0ZFVWUnEydURTSjVFdHN1Y1l0SXZQdUNtSzQzV2xpM1doYlVYU09ZbXRhaGYyckIzdXZoaTlHN3R2VTg4VWI2NVNXenVrenJJWlZ0bkVVSGM3NW45RDN1dFRyQ1RpbTFFNkkzR3ZjZ3lQSUhYbFlwOEhZSHhBZkFpQWcyOUhldnJaZTJobXJvdzBTUWRxZWxsY1p6bmFqWVVvY01vZFhNcUVGVXd4b1hvOUdSbm9ZUlE?oc=5",
+        "https://247wallst.com/investing/2026/11/23/steve-eisman-says-stock-picking-is-back-now-that-ai-is-no-longer-one-trade/",
+        "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "SK hynix 실적 발표",
+      "topic": "SK hynix 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "SKHY",
+      "score": 48.4,
+      "related_keywords": [
+        "sk hynix 주가",
+        "sk hynix 주가 전망",
+        "sk hynix 채용",
+        "sk hynix",
+        "sk hynix adr",
+        "SK HYNIX PERPETUAL",
+        "sk hynix inc adr",
+        "sk hynix 채용 결과"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zMWY2OUYxdW9YRTctcFZ3aFZIbUY2cm1tajYzYkNwdzVqZWRyTFlDQm9Od0RXaGR5UFB0LVByZENoVk95WHFpbGFna3JJQWkwdU5qWG5HYXBqbzc0TkV6XzYteVkzdDYwbE1RREtSVlgzQlhZOHc?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPbm5vQmJVMXRuRnpJbTc5MVF2ZDN0R3hadWtvSVFwMmY3eGtsQTJXN3BJMDhGMjJLU1Y1OWtDR3hmZkZtSHJGNi1oNDRYT0sxYWhpNGM3Vm5kejNTN3B3VTBkUXlCdE9xdUlxcUZCMndqSHpKYW1qZFlEdWt3NW5hRVY4YlYxbndnSFRuSk0yZHA5QUJTTzFOTmNlT2pqdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VlRzdFBCby1PMWdWS05GTEFSZzY4Wk83WmNNaVg4OF90TXVCUFpXLThRY0xJNzJXZkszUXM5ZzFER0t3UEgtMzN2XzN3MDMwNHdrQURFWkpUUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNkFENjNObFFyeEtpRzZibzRxUnZQVnQxMXpELXhMa2ZMVC1PVEMxbDFoT1pkbDIxRnU0a0o1M3dYZnBXSFpRZXlJOGVBV08xZ09RZmtqZTE2SlRsTXEzaWp1NjZUc001c2hmaEx0MVI1bDNTRW5uOTE2YjJxWUlBcE9NYllrX296NFZlUG02RnpscVlobll5ZF9odGxwQWh3M05NVDd3eXR5TlZGRGFocVFab29EcE11SmctSmdIOUFzczNrY0hfdl85ZWY3bmdsa0g5Tjc5VjcwbmRBbnVYTVRJNDFVNzJwSy1kWHIyM2pDZjVScVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YVWNvSHNlTC1FcHhvd0p6YTJlU0VCVG9Pb2FFSjQ1ZWhqbWk1WUw5bWhvWVRQRnVKdEVKeEdKY185QmNpNVdfdHlwY3N5My1aVUcwNkQxUFo?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "IREN Limited 주가 급등 이유",
+      "topic": "IREN Limited 주가가 급등한 배경: IREN Limited 신제품·신기술 발표, 사업에 미칠 영향",
+      "post_type": "이슈 해설형",
+      "category": "미국주식",
+      "ticker": "IREN",
+      "score": 46.6,
+      "related_keywords": [],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1JvUmtneHhFTDhEUjBHdTNtQWt6MFJ2OFoyU1ZXUzc3V3F4VkVQRlVRQ1BGMnR4VDVQWWlsME83NjVXVllNVzExWWs3emswU1VrYXotbmlUMS1RTW0tUzQxOE9IX05nWjlhaXdNbzRwNGJoc1JPQ3k4eWJTMEMyczJBNXZZNWMwVl9wNXlVR0s5aUJSRE5OOFduS1dqZEFYdmh6bzRvWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2FfSVVMYndrTG9hOTNFM3dGbml4ZHhsQkdJSGM5cWJwMWJmX0tIbndGck9ObkJQMldMOGF0TmtoR01uLTItOVlxTzRWOGJZdHI5UFVIUmZvZWhVdTg5UnJfZmxlVWhaOVZMLWJ6X3ozQzBURHNFeV9PdnF6VlJOQUh0SHZSSW85ZG1uQ2Zpekl5M3g5UXBVMnIyWGU0Rms0NUE?oc=5",
+        "https://247wallst.com/videos/nebius-coreweave-jump-21-while-oracle-sees-12-gains-on-monday-following-jensens-return/",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjVIcDZHeVc0ajJma2tVNV8ta01aS20wWHdKa2NxdWFGeThuei1mSWV1NVRYSVFQLU80UXNiUmpxX0NYcGxpZ1JOS2xRd0ZEck1BSnBORjZrRnBOTGlLUHhXNWxHTy1CNDYwZ2dhaTVJWm9rNHhXdmNkeUZtUXJtdHlPbHYzZ25zcXlCd081VnJsNjk1X1R0MTg0TU5Bb3Fr?oc=5",
+        "https://www.tikr.com/blog/dell-wants-up-to-45-more-on-signed-ai-deals-iren-has-a-big-problem?ref=yahoofinance&tlnk=yf-261123-6945q259"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "Kymera Therapeutics 실적 발표",
+      "topic": "Kymera Therapeutics 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "KYMR",
+      "score": 39.0,
+      "related_keywords": [],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmRuRV95VTI5eVlmVmJrSlZwdi1JVDJHQVlYZ0JfV25XRHJNNnA0OHhOUXVPUUQ4UXprR2RlaWZEZEo2WHVpVUdwTlk2d3J3T0NSM3dFR2pPbEEwMXl6NFU0cUE3d0tfQlRnZXh4VE1iV3hIQVlrVjV5bWJWc0dlMWIwMTk1cFRZNTBfVzBFSWJpV1N0eE1NbWc2NDFtTi1NZ1NjcGY4bVJLemZPdmc5dHN3?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzlNNjlmakV2OElSVmNLUU9PV3lVYUNlcVltQjl0TFFNcnZ2YWZpclkxWC1mbHM4SEhzLUV2V0ljV2FmYVpmOTBGOUx2NVh1UU5yY2VTU25sczd1MHdaUUxSX2pHTTctS2RULUpyS3QxY04yYnR3aGlsTE1STTBLbFFwUlhGNUxYeHRPLUs3MnZlV3lULUtsdlNEVjExaWdheXJrdHZNeE9fMHRZZUE?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3BYWnZGSHZBczZnZlppbEUzM0NMVFBhWWNoeUF0NVZ5VG5QU3F4VGVPbHFlRlJvcy11aS1KV3dZNUltSWN1NzlqNmM2WVdWd3BwQU00aVVHaFYxTkF2MnJySUpQM3hiZHYxM0N6b2FpbkVkeXdYTGlETkdqbEpmekZ2S0VTVjExSEF1N1A4ZHlqcGw1eVZYZzlVb1htNnRwZEhoVW1UZUZ1c3ZDVmk2cUdZQzJBQQ?oc=5",
+        "https://www.investors.com/research/ibd-stock-of-the-day/regeneron-stock-dupixent-livsayis-libtayo-mash-treatment/?src=A00220&yptr=yahoo",
+        "https://www.investors.com/news/technology/kymera-theraeutics-stock-eczema-pill-dupixent/?src=A00220&yptr=yahoo"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "Applied Digital 실적 발표",
+      "topic": "Applied Digital 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "APLD",
+      "score": 35.4,
+      "related_keywords": [],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSnJrNXdlSjhWU01xNi1BbVA4TFRzZVl6QWtvM1pLTmVhU1BoLXoyVmNHZllOT2ZRVWI3M3BBTTNZcHVybEtHbVVqYXZmUko3WGRzSU1XS09wZExGaXdxNGdrQklUTUh6WVNwcjlLNUJTZ1kzY0FkdVhycmtBaHVNRXp3aVhGbklsVHM3RUdRajFxa2pZOUJRQXJybWtLT05veWZzOTFoT1pVVVpNT2o4MWhwRzlMMUQ1d2dPem5zNFV4QTBDa1VXQ01FTXFXTVNkUzFGTG1GSlJvS3UtdjZJSFZ3ak1VNUs4U205VGNzbEYzckoxZXhn?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeThaRGp5cGpwSHVfSUNXTG1pak8zVjdhY0N4ZmJvZW9OeWNNanFaS2hfMXk0dV9uYXlCTmRfYUttWXRwMUxGUkJjdE1VV3lMM3dFS1JjdV9NNVpQWkNmaVhLN285VHlHMEI0Zk11LVVqZVpLMTBYNEU5RzhaVzNTeVdUWGt2UDRxaUlscGc3Uzk3aXRKN0dMUTFEbTEwa1Z0aUttY09TQWl0bUMzUmZmSDd5cWtfQUZWazRDQkQ5UTRoaVE?oc=5",
+        "https://www.trefis.com/stock/cifr/articles/627678/should-you-buy-cipher-digital-stock-now-or-wait-for-february/2026-11-23",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVhwVS1oR2tuUEtNTE1kNmVGdFZjQ19LS2g3cktYLXhkd1k3V0dtVm8xZVlSYkZ5aThjWWE2WDBjRFVsNWY0UnViRnkyWXNCcWM4UDN1OUdXYWZPN1kxZmJETFBtb1NZamNkTVh4RnFNUjQ3VUdyYzA1OXlmSHh5M1R2SC1aVUw2di1uRlJNSkdraUpWaTZ6U1BMVzNkUWpnVjFjMjAtTkQ?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjVIcDZHeVc0ajJma2tVNV8ta01aS20wWHdKa2NxdWFGeThuei1mSWV1NVRYSVFQLU80UXNiUmpxX0NYcGxpZ1JOS2xRd0ZEck1BSnBORjZrRnBOTGlLUHhXNWxHTy1CNDYwZ2dhaTVJWm9rNHhXdmNkeUZtUXJtdHlPbHYzZ25zcXlCd081VnJsNjk1X1R0MTg0TU5Bb3Fr?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "애플 실적 발표",
+      "topic": "애플 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "AAPL",
+      "score": 31.1,
+      "related_keywords": [
+        "애플 주가 원화 가격",
+        "애플 주가 전망",
+        "애플 주가 폭등",
+        "애플 주가 시세",
+        "애플 주가 상승 이유",
+        "애플 주가 총액",
+        "애플 주가 그래프",
+        "애플 주가 최고치"
+      ],
+      "source_links": [
+        "https://www.trefis.com/stock/snap/articles/627539/how-risky-is-snap-stock-now/2026-11-23",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjJnTFdnMXM4dGFUUXlhRW1XUXNmM01kSW9OOVJQcW5SMXo2ZG9sX2c0eGkyX2ZUTERidV9JNWpiTFJrdVRvS0JuUGtPNmpRaG1PNENnVHEyNGs0aXNTdnlPWEV4ZVdHV29yanBabFVqN1dMTG1MM0RqMnQ3M3RHTnhPc01DdVMyR0pHNDgycmxicXg0bTV0Z3pIZ3JjNGN1cVBFSlBVWkdqVjk1X29KT1dWbUJ0RzdB?oc=5",
+        "https://finance.yahoo.com/news/nvidia-reinstates-jensen-huang-ceo-135916841.html",
+        "https://www.fool.com/coverage/charts/2026/11/23/apple-vs-broadcom-comparing-revenue-trends-amid-the-artificial-intelligence-boom/",
+        "https://247wallst.com/videos/crowdstrike-shares-fall-10-after-a-44-billion-zscaler-deal-despite-an-earnings-beat-and-raised-guidance/"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "인텔 실적 발표",
+      "topic": "인텔 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "INTC",
+      "score": 28.8,
+      "related_keywords": [
+        "인텔 주가 폭락",
+        "인텔 주가 폭락 이유",
+        "미국 인텔 주가",
+        "인텔 주가 차트",
+        "인텔 주가 원화 가격",
+        "인텔 주가 급락",
+        "인텔 주가 전망 분석",
+        "인텔 주가 미국"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa3hONUUta1VTdTVQNUxvN0xJeDhoY2tsOVVXZF9kRFNrR1BrTjFmZ05kYWRPazBHUFBscGpMd0JuOXpxaWpMOWt5TUg1LVVqdlN6ZlRVdUFQX3VOVVdOdDhIUExwS2lCU0g5bG1PM2RsRjdFd2tQbFJPbEFfVHAtaC1ORno4TXpuQ1cyRHNJdXRleElMNV8yakloTlhjM19NR3lraDZrMTdrZURiVVE?oc=5",
+        "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmxvMVdfaFVfcWc0U3E4QVNiX2xyQ2VEa214ajdva2g3NUlfYTVOOXBoWXRUbG04MnlDU1VsQUhDTERWaUV0OGtiNFV4a0NDc2djQWw0c2VjZDI0anJPeFJrQnVLajR2UHhuWF9KYUtVTVhmLVhsamx6WkhKaFM3bU5yVGlYeVlTUXEwTnJybjZGWWg0cXJZY1REeUU1TTVqRzRmalBzZko2YVNtcFlEcVNFcjg0ODF0T0xmRHZKVEtadjJjMk5mN1VrT0pxRjA?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0ozeGg4WVhFLTdTZzVJVVY4b2FHS1JHcm1UaEh0bEdESnVuWVpMcnZKMkdJLXByZnN4OC1uZTZnSDhNQ084Um5tazAtelgtaUZGcVgtam5EZHZBdVIySWhKeTJ1YXpQSUYwQWw2VTdkdUpmMnZEdEdaWndGUHVEMTY4TjNkTXhkcmtfaEtnRHlKbXN2NmRXajBfYmVGcGM5UHhhY3BmZWVRYXFl?oc=5",
+        "https://finance.yahoo.com/markets/stocks/articles/asml-stock-sell-off-looks-212500722.html"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "Nebius Group N.V 실적 발표",
+      "topic": "Nebius Group N.V 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "NBIS",
+      "score": 27.6,
+      "related_keywords": [],
+      "source_links": [
+        "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html",
+        "https://finance.yahoo.com/markets/stocks/articles/amd-blockbuster-q3-report-getting-212200835.html",
+        "https://www.tikr.com/blog/gavin-baker-at-least-three-companies-want-to-replace-nvidia-as-ais-central-bank-good-news-for-coreweave?ref=yahoofinance&tlnk=yf-261123-37w799jj",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00LUNpWDgtdUo3eVhxTm5STzlGWWh3cGRueVhSaUl2LVFaNUVWU245dDdEQ2Z2S2Z2UkNOSDg0Um90cW41ZndwblUzOXVTSnJLanZhUA?oc=5",
+        "https://247wallst.com/videos/nebius-coreweave-jump-21-while-oracle-sees-12-gains-on-monday-following-jensens-return/"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "Marvell Technology 실적 발표",
+      "topic": "Marvell Technology 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "MRVL",
+      "score": 26.1,
+      "related_keywords": [
+        "marvell technology korea"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOW1fMlRDdGM4RU4zUHNxVlUtRnc1bnNxaU04bTloYmNQNXUtZkdqM1BfLV9kUTVkX1p0ejh5OHpMaHRmSENFYmI4Z2NoNTJfYnRPTGdTakVQVzBtQnJlNVFWekVmV3c1ZklYLW1VUXJzODdiaEl6Nm96bE5ocFdSUGNnOUxQUFRncVlvX2RXaw?oc=5",
+        "https://www.fool.com/investing/2026/11/23/why-marvell-technology-stock-crushed-it-today/",
+        "https://www.tikr.com/blog/coherent-is-the-real-winner-of-huangs-return-nvidia-paid-2-billion-for-its-stock?ref=yahoofinance&tlnk=yf-261123-h5c2xv48",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSU5UZUhDTnd0eENQc2p1Ulk2cUI0eWpZYTJaczJXQzZhMUVzTmNFUWdWdy0tbU9YU3lvdlVlXzFHeEsyMXhRZTd3cVN1MExxaDNyd3drakVMV3ZIMmJVbmxQdG04S2VFRnc4cHRwOTlDNThUcEtOb2ZJUFdSVmJ6ZQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjZld3lzUGVwaC14TkpwT2RZZHZlVWNpV2cxNW1BZ2hESDZkZmNFb0M5T3FSMEh0ZXpQWXE3M1BGdWpoYVZyTWk0MVFzVHZBMTdFVHRaSkRyZk5TdnMyRGN2Y29tbE9sTnhGUWpDb1lpVXlQc0FvUnV0MG5UVUF6Y0R6blNZTXpkTUwtbHR4b3ZvZG14dWc4Z3NyX1hYZ08ySDJIZV9xSHU2UQ?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "Cerebras Systems 실적 발표",
+      "topic": "Cerebras Systems 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "CBRS",
+      "score": 24.4,
+      "related_keywords": [
+        "Cerebras Systems 주가"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Lczk1b29fV1dsZ0VMTzItbnk2b0lyZUEwTkxJMlpYeV9mbVdTd2xCdHV3ejZpNGNRNnhjQUNEbGN3djhnZXVDYURYeW5IUERZSzUya1NzdE9JeDgyT01Ra3VhTWpkZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZmprRktDc2VlU0pjaThTTzlrOUNzV1pCamlMMC1ILWR2eWlNZm5kN1FRMmhGMWx5cTJ5OTJFb0VXZXdSSFM1MkhnWVNKV05VdTdzZEw5cU1PT3NqMWdLM181RHNZVmMxSnlLZ1JKU29td2RNSjhVLVBUOWM1d1JDTE1wZGdrS1NDck5GdG1veUtCa29jZUNteDloZm1ZcGRyR0lOLXIyclVRX2J6bkJ2bzFubXdfOU1fN1hSbmxDZEdwMi14dEQtWVRFdTdjTnlfRXBMTHdFOA?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjh5OXBFNXZpbXpRQlJhWFlsYjZqeDVEa3JNSldEaG1IbVNUQ01aTXN1UExiX3VaV0d3bkhrYnlyajNXdVNraG5MZkQwc2RJN3NxMkhVSFNoWXdwNkwxaFl6Njl0QW9MSXFQdXFNcnpsaTRfREFBNkptLXVyNXJDNWl0OTNaYjVnLUllN1Z0S0Y4ZEVMWENxdTU2elFXdC1HMm9kNjN4MA?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVVvenJaTWpNODZXbWdsMmFRY0hneHI2OUpWd19qZFoyQXhsNndvSi1ZemJHUnFjNkhld3BaQkJLQnJxYk5KbE91eE54bERmQTh4UXJMc3RkeldKOGN0bk1PdTUycnFUaFdHZ3A5TFQ2SkRSSTFGY3hxdGNuMVRmNG9faWQzNFJuMVdaZmVpQ2o3YmZvRk1uVVVn?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0gwX21nMFAtZF8tWWsyZ0taMk9BYXJlRzU5aHRNaDlMbE4zSDAzc1duaUxURGI4QnJZd0swY29GM1ZkR3NoMTYtamhNLU1FbDJISFRrTDN4WlJiWmdnZFpmLWZsOHNFRm1nRTVmTWg1MjI5STdPdG15R3pBaVZodml4cTNUZTdFYkMyVXB4S0gtWXl2MDVpMk44a1UxRkVqTWNyQmlSb3dMakF2?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "마이크론 실적 발표",
+      "topic": "마이크론 실적 발표 핵심 정리: 매출·이익·가이던스와 주가 반응",
+      "post_type": "기업실적 분석형",
+      "category": "미국주식",
+      "ticker": "MU",
+      "score": 21.6,
+      "related_keywords": [
+        "하나마이크론 주가",
+        "하나마이크론 주가전망",
+        "미국 마이크론 주가",
+        "유니마이크론 주가",
+        "마이크론 주가 토스",
+        "마이크론 주가 전망",
+        "마이크론 주가 급락",
+        "마이크론 주가 실시간"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUg3SlViQW1FTjBsLUMzaERJSVplZXQ1ajdkNVlQTlItNjB0Z2FzcjZLNDUzeC1EdTZjUzYyLUs3SXE4R3BnQ18zSzkxSFVva2ROOTljOFNLRVFFaV9EaFBoWklQbnZ6ZnpzM2U0R1BKTGtSa1FFcEE2bl9wNjRoUkxtdk1sYzhZYUlBX29ORHlqWl9PSEhyenFpSDFNdlZSV0hIdA?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMXVxc0VLV0ZaMlpMaV9FeV9NdlpaS3RvY3djYjNDTktRZXBhM3ROd2hZWjE2OTJTMmR1REdGRUhpY2dqTXhRdXhGeDRIb21LNG11Ni1wSnZxY1NwbzBOQldieFprbWppUVpvemItb2ktOU5fZEdRVGk0dldSb2JVSkJQX19YM1hjUXVZNXBmcms5R2FOU09Eb0Z1T25EdXB1QzFESllWYVFjNE82Q1NmWGtyQTR4R0VtQmFodzRTWWVPQkRqdFNEU3FDdFFrcW04dXF5Q09HSENzbUE1bzB3LS1n?oc=5",
+        "https://247wallst.com/investing/2026/11/23/jensen-huangs-return-just-added-about-500-billion-to-micron-dell-tsmc-and-the-ai-stocks-that-depend-on-nvidia/",
+        "https://www.barrons.com/articles/anthropic-stock-nvidia-big-rally-6782b633?siteid=yhoof2&yptr=yahoo",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1abkg4OTBxMlNfODF3b2VCdy1DOUJjczlRTGFtM0tmSTBQcXI3cklFYTYwaGtPN0ZEUUdfQU4wcGMtVzJ3c3RaM0VLWURBbzM3bTlxYWFCQjFzWXMxcUZVSms4X2Q5VWh2cVRHeUdiNV9NOV9paFE?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "기준금리",
+      "topic": "'기준금리' 최근 변화와 독자가 챙길 점",
+      "post_type": "이슈 해설형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 72.5,
+      "related_keywords": [
+        "한국 기준금리",
+        "기준금리",
+        "미국 기준금리",
+        "한국 기준금리 발표일",
+        "기준금리 뜻",
+        "기준금리 인상",
+        "한국은행 기준금리",
+        "한은 기준금리"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE94LUI4UjlFdjRrN0N4ZU91ZEE3R2Z3YU5JQmZSWDVlUEVMMFkyOThXaUVhUXQxQkx0cGxBaFdINWNHbjNOWDgxemF4Rmxfdzdwb0hVQ09IdGxfQ1ZjWHVsYmJtZFY5T192cm82Qjg3Z3fSAXRBVV95cUxNOUFMUlNGQVUyUVljVjNDSUpodGdjU2dmOEZvYkVJNkpZeTVqS1FzamppTFl0WFl4VE9QYTgwR0RPeVUwMUhlcERET2p6RFhpeTh2MWp4Y3dobTBMWGkxZHpPcldtd3k1cDFDY2VwNjduNWJSSA?oc=5",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93cC1wcHNyUmpkeDV0WGF1SFdsVDlhbkZUU0phZ2dmcUVQNFplRW1vNDM5RWUxbmxTMXo1VkVLeG1RYnVaeTZGZHFkY3Q0QWl6WlI3cA?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZHdHRHZ0MjlTUFVqb25aaVN4bG56bVhWNlA5djhEX2pJTUFFZmQtZzJFZkEwVWJvSTNaRjdwSGY0U2hEZkdTdUhnRXlILU5NTnpIS2REb1k3TGhsa0lEa3h4ZFQtZU10LUFhc9IBcEFVX3lxTE1sc3FJcVVGdzAyUkhsUUlMaTMyalNzME5CR21la0VNazdOM0ZuX1BMaVV2OGFvTzUyUzJ4ZTBuS1FLU3FMX3pSZ0dnUVVEa05uN2s4bXlyVW1iQ2wyaldkemNUN3Jwdlc1TG1acU9SWnk?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NdFhRanJpYVZueVpONUFvQTk5V0ZSdURCSHUzTjQzelNtWU4xdERldElqVDF5TGtyeHBOOV84RVJCS0FVVGtQLU5ZQ3BVUVdiNDF2bFVwcWU5SWp1N2JleUJ1dTZxTGlZaWpWdllVOXI?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IRzlCclZ2bmhTb0FoVnlmUUtsMGFJbWFUazFzUkgxZC01MGdqb25ocEJNY1ItZU9lSkV3LWpETUtZMlRNM2hjdXJNZkVqN240SFgzOGpzUkxRYlA1dmRGaWI5czFHbGVKc1k4RV96SWV2UHBQM2haZtIBfkFVX3lxTE5OMzBYSlBkenUyc2VwMXNhcWFDY3hGc1d3T2ptMWx6bXI4U081MkxTSHRGSk5zSVg0ZUdrajJqR0w2czlRaFNmVHBfemxJNGIxdWl3Q0lwemNpX3ZmWm5kWmVVaVlzRVBNcHpBcU50VFBydWVHdHpOZFpXbzF0QQ?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "달러 투자",
+      "topic": "'달러 투자' 최근 변화와 독자가 챙길 점",
+      "post_type": "이슈 해설형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 72.5,
+      "related_keywords": [
+        "달러 투자",
+        "달러 투자 방법 추천",
+        "달러 투자 방법",
+        "달러 투자 전망",
+        "달러 투자 상품",
+        "달러 투자 책",
+        "달러 투자 증권사",
+        "달러 투자 추천"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pS1hCc2dEWmp0VUs3MmpBOHVTa2lBNHlFYnJPcW93VzFmOFllV3M2V3RaM3dvdHZHXzQyQ1lGRUVXeGdLbVJRaUVnSE9qejQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55ZEpOYXpKeEtKdV9MM2R4NWs5cDZUSFRKSzlnVXlXa3hJNU1RUTh6VnA0T3YwU3JEcm1VRHdlc3NtNl9aQjBtc3N3bDZYMjBwNGsxaFF2WklhYzM0MVlHNXhiYVI?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WZ29HZC1FM0VIQUMwSXkyLWgtNFBzZHRpNG9fY0V6VnBWNVF6eXMwbDR3UF9xclJoY1RNLWgzd1p0M3VQM0FhWFVva1F5azkxWDVkRnF5SHE3cVdiQkdxWlVjSXo0RWlpMnlYeExn?oc=5",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWczJnUFJob3ZjMEdlb3A0U2JvWDQ4WlR5VlkzdjZFSWMxc1RsVTU0NmRIOHV0TkY0UEZQU2JfMmpBRHVhN3Q3Y2hzVmJRU0h6V3RoVkhXS0o4YWhR?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMEwwcDFCMWcyLUFQUkllcTN6QXEtUjdzQXhnS2VCMTdlQ2hkYnNCWXRuM2xUc0V3TVVvazItczRzZ0lzM2F0V1FpeHVFQnJMRDV1Sm9FdjA3QQ?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "ETF 투자",
+      "topic": "'ETF 투자' 최근 변화와 독자가 챙길 점",
+      "post_type": "이슈 해설형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 65.7,
+      "related_keywords": [
+        "etf 투자방법",
+        "etf 투자",
+        "미국 etf 투자방법",
+        "etf 투자방법뜻",
+        "etf 투자 교육",
+        "etf 투자방법 교육",
+        "etf 투자 5일완성",
+        "etf 투자 책"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbS1rUDdfVnBIT0dNX2FoT1BNb1NodGdHMzNvUHVyLWFtb2lHRWdaZVRCM3pKWlFndzVkRGJaN0xudEVqYTEwNjVrbzVlc0tCZlBKQVU5VFU1UEdHcTJMclg0MWQxLS1lRE92NmJNRmJmbnQ5VWtfTGplSDRCcncwVGNOaEVleDVB?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hMDRSbDF5eHVTVlcteXhXT1VrQkxjLVFDYXg3ODczNm9jMTFsQldwOWhSMmg1VVFKZHhMdi1McEVIbG5zeDNERWRSRHJRdTVESXhGWEt6cXRodw?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Wby10Qk8zQXhzMExZc29ocU9yckRIMlQxSUdYalN2TTB6X25IY25QNml1UzVfdXcxRFRjemdpYmZHUk9qQktpR1h6VnFpdWZJTDEzUWRpV21zclQ4Z0ZJZ2pQT2xSLW9kUC1IbXpB0gFuQVVfeXFMT1ZvLXRCTzNBeHMwTFlzb2hxT3JyREgyVDFJR1hqU3ZNMHpfbkhjblA2aXVTNV91dzFEVGN6Z2liZkdST2pCS2lHWHpWcWl1ZklMMTNRZGlXbXNyVDhnRklnalBPbFItb2RQLUhtekE?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE56d09fNHJLWnRyOEROYnhQZDZkWDhMWXdLVTV3TmxGUnlTdnhUclFaeXhOaW5BaUIwOGU3ci1LNHJrc2w3dW1MamFiOUtmb1huOU8xR1dGRk1HZTRUQXo2c0FyMXlISnNSa2xR?oc=5",
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdmVybEl5dlZXTzV0eVV1aDVwZUhDd3djZDZsc3NwSDhVSUFfV1B4Q3AxcUtybFpOREFnQTRfT0lRWDQ2ckJwUThMamFwaTI2QTVjS0tR?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "청약",
+      "topic": "'청약' 최근 변화와 독자가 챙길 점",
+      "post_type": "정책·규제 변경형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 64.3,
+      "related_keywords": [
+        "청약홈",
+        "lh청약플러스",
+        "주택청약",
+        "청약통장",
+        "청약 조건",
+        "청약",
+        "청약 일정",
+        "lh청약센터"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1za1dwNnhjX2EwWFN3R1NuckRGYTJ5TV9POHE5WEJCYVFCdkJFMUR3VjNTSFVuNUw3R1d5bnk3aW5OSkhEemJyeDBXaHItRjRVZ1RGZHBZWEFNZjA?oc=5",
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JOFc0cjE1cC1pVGF2bkpjWTFjVmtLeF9RejlheHBuQXJtNm12RGEzUTVIb1lPdV9UcUwxblJKNERHQkExTlludThxNA?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE96ZVc4SldmYkpJSTNxQndXczVjOXN1SDVSYmlfZzhKaHhUWGg5MHAwM0c3MjBFZzZ1Y2NTZFoyTXR3MUQ2c1pTVE1faVNTVm85c2xmVllnLVZSU1ZOZnBtZWRKOTdsQXZJWDN4SkFR?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE50UVJNV3hKb3hQTVlEYzZhNG5ndng1TDd3aUxQYV83MGlxMG9McE1tNjI1cm5uYWZmZnlDWVU2cWtyRkpEcFdmUDBIRW5qckYxYTFzTHVuUGUzY2huejVBcGY1dDJ4Y1JDcnI5cw?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03RjRjOXN6MGtjUWFOX2NfbDViWFZoNTRsLW9hbHJ1QXI5bF9aR1Vaa0lnOE5YeGllV3JMMkdkZDBYMUVPM19RQjl3TExaenFSWG9zNEdhbkU?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "국민연금",
+      "topic": "'국민연금' 최근 변화와 독자가 챙길 점",
+      "post_type": "정책·규제 변경형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 48.9,
+      "related_keywords": [
+        "국민연금",
+        "국민연금공단",
+        "국민연금 납부액 조회",
+        "국민연금 수령나이",
+        "국민연금 조회",
+        "국민연금 수령액",
+        "국민연금 납부",
+        "국민연금 조기수령"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kUDMyaG9PVGEzQndlNmVXaDlPWEt4TUxESEFHYndzRDF3YU5ZeVFUQV9GLUNrbmNpYzF2WlFJQnQzZVhqcXZydzh6a2hKVVF2c3RldFFwVmNlLXNEbjFQMG1WOVg1Wmd6RXhkTElYVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk5FdEhVZlJBYTNKV3lUUWllOTBUQ01nVWFXNzhDeXZWcnpOSEx4Y3E1clRMRHlwWjBxVnZ2aWVGSWd3NjZuUGt1ajA2ejc5SmxXU2FnWmZBMlBBcTN1Z0pNZW1YWXZ2LWRVSWtaR3E5SDVLYVk4em9ZN1JXalBxZlU0cw?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5RFRSdTFUUkFRZHVERjZKaFl3NHctMVlpOFEwbTllYWdSSDh0MThEUTFoVDJ3VWxfcVY0eU9naE9sUjV3NDBWR1FXQ21qRExSa0xXTlNLekQ3N1M3SEx5MWZPenZJbUdaZjJSMXFld2FTd1JfMEU00gF8QVVfeXFMT3RMMzRDOXZ4SzdRa0dISEhPQlg1aTBXZ2xwZHpmRVdEajFwZ3BEWTgzcGpWZ3RUV25NMll6c1RnSFhlQlBFNDRRbk1BSTVGVjFENFAtZUhsYWdteGlDNklKXzZZRHl5dEhXUFhvS1FsdzdpOThoVDc2U1NBUA?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pRmhoSFRaUWlvZTVpa1gtU1UtNm9heWxCcDAwNnFYZFB4T3ByVnZRQTVTdGxiRkwzMjFHUlFqeGs5VzU4Q1RmeHBJQlczQzVPSmVMd3B3a3NWNzBUb1pRd1RiNkRUWmpmTWNF?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oZ0hvSWg1Uks3WllUVk0yN1BrUzlvak55NkpnTFNGX1pPNVNwMEgteDd6UkRDY0l3LUZWNHNfMkdBNnRtRFd5WGRNbWEtQWd4SUh6cEFmenN2WDg?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "퇴직연금",
+      "topic": "'퇴직연금' 최근 변화와 독자가 챙길 점",
+      "post_type": "정책·규제 변경형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 45.4,
+      "related_keywords": [
+        "퇴직연금",
+        "퇴직연금 DC형",
+        "퇴직연금 수령방법",
+        "퇴직연금 중도인출",
+        "퇴직연금 irp",
+        "퇴직연금 조회",
+        "퇴직연금 해지",
+        "퇴직연금 의무화"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4Zk4yZTUwMU5YRWQza1Nwb1ozbFRNRE1VMHZGSnh2LTZLa2JuLS1nYThMdGMxZFBjaC1paHRwTXdqT2I3UlB4SGw2Yll1MHZKZGtvNDE5T0k?oc=5",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14dHo4QTNGSW5VZVFIdTJGSlZnWW5nTG5tMVB1M0JNa1MzQi1zc1ZJRjFKV19WUzBJZ2pLaFl5SDhLR29Da0l4VktHRjVzNzVDcmowVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlZFRSdlQybXRjTVNpWThORDl1bmVacUZiSXZRWU5jNDhKYVJ1SEZzWklTSEhTLUR0ek1yS3kxRU5DbENmby1EcEUyOTRrdTBMeDBRVzFpbVM4M1pL?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTZ0dxWmd6ZTVzdGtrSUhWVGpfRlp5UTRLNTNSeUcydEs1UXNETTAtZXRhekxhbnlqN0ZaU0xjUERxcXl2aWotc0JqbFJNYzE2S1BKcWN5ZnAybzBQVkVGZGR0S2xZVUJjcU1Tem5TVnZvZzhGSUHSAWZBVV95cUxPbzhkcEQyNEg5LTFsMWFKRG9Da2ZLR3ZYQkFoU2pneGtBSmFsbXNNaFdfZ21LQkpIRzFmNE9rQ1FhbThFUTNVQ01USGE3UmFnMHZqWDY2czA4YUVWWWRRRWZnSnB1X1E?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sZ1poaUwtTzVlSFFzdldUVHZ6aEZTTzBlbmF5UDJjRGtSLTduMkxyYzZTSGZrTGppTXNmYzFBNTQ5RDJPRUhjeHM4bTkyYnJHbmMyVkplZk4yazJFNkdXUGNCU2tJSDNFc3RzZkp3OHZJeURi0gF0QVVfeXFMTmxnWmhpTC1PNWVIUXN2V1RUdnpoRlNPMGVuYXlQMmNEa1ItN24yTHJjNlNIZmtMamlNc2ZjMUE1NDlEMk9FSGN4czhtOTJickduYzJWSmVmTjJrMkU2R1dQY0JTa0lIM0VzdHNmSnc4dkl5RGI?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "연말정산",
+      "topic": "'연말정산' 최근 변화와 독자가 챙길 점",
+      "post_type": "정책·규제 변경형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 43.6,
+      "related_keywords": [
+        "연말정산미리보기",
+        "연말정산",
+        "연말정산 기간",
+        "연말정산 소득공제",
+        "연말정산 환급금 조회",
+        "연말정산 계산기",
+        "연말정산 뜻",
+        "연말정산 시기"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ednp3STM3MGs0M3V3azlhWlJXNDh0cGFnRlRRZ0xfUDFPMHFYdllvaU9zc001Zk1xNlRROWxERWdaM1NFZ1p6Ny1VLTA2ZW5oblE?oc=5",
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGV2ZkQlJrSlllbW1MUTcxWlBPWEtSZzg5eEpxQTJVc0QyUE0xYlgzNkR4TUExZmdoNXNjY2hkUVJxOExIYkRhaURtanlQTTEyTmliZkFn?oc=5",
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4V2VIbzVUX1FteUlPSl9aSmloMUMwRkNhNmlZWkRBcF9QWk9Kb0JGWnpjNGxxUWR0bUpCcWIyUWZmcnNNMFNncEpfNk9zTTlZS0E?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1paW1La0RoUldZMkxIc2owd0VuM3hmMjJ2ckQ5Q3NDZmNhUHk5Z2Flb2ZyYnUwSnMxR3NSWUwwX0swZW4tekF4aXo1cXFRNlhYcXUxWTA3N09FblBXRThSa1QyOXRiYk5FNXFBUHh3?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfRUt5bGZLck9TVWc0d2lTRnpQdzR6RHdXaWJoa1Bucnp1bUQ2QWRGXzVYekRaSEJZMzUwRTBPTm1yZXFiLW53RFFXQ2ltZ1dRV2FoWjAyRDQtT2ZVS3prRF9LaGRpQnZEVnZQdzFVT2xxaE5k0gF0QVVfeXFMUF9FS3lsZktyT1NVZzR3aVNGelB3NHpEd1dpYmhrUG5yenVtRDZBZEZfNVh6RFpIQlkzNTBFME9ObXJlcWItbndEUVdDaW1nV1FXYWhaMDJENC1PZlVLemtEX0toZGlCdkRWdlB3MVVPbHFoTmQ?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "ISA 계좌",
+      "topic": "'ISA 계좌' 최근 변화와 독자가 챙길 점",
+      "post_type": "정책·규제 변경형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 40.7,
+      "related_keywords": [
+        "ISA 계좌 단점",
+        "ISA 계좌 개설",
+        "ISA 계좌",
+        "isa 계좌 출금",
+        "ISA 계좌 뜻",
+        "ISA 계좌 추천",
+        "ISA 계좌 장점",
+        "isa 계좌 해지"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WelR6anpuNG54LWV2SXhCZHJETTZiZThtYkZsOWVoSWNvSHQ5dmNwWG1SUXdYU09wUnBBay1iZjh4Nmd3SjBXQkZDR244ZU45dC1ncXNIWmpHNnPSAWBBVV95cUxNMzY2dUx3Q05HV0xHSGRkX2laQmFUQXhiNE1xdWlPWElIMkpHS3AwZ3lYT1h5ckFReDd2RnNUZmttTjlFdk10Rm9rakQ3LW1USDMyOGNRcmtRc1c1SVp2OWU?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ON3B2dVdncXJQY0FPOVJqODJsU09DZXc4R1lEMy1oSmdHZV9vNGNWTDBHcUwtOUNaNUh0WUVQcVZ6WjBRQzkzSjd3SDZRUUo1ZF9WMlZtY3lnNzA?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EejVQeXNNVHFXdkgzMlRGcmhmb3JDV0s0bFdETXJzdFQ0dUFidDlfOFktcTFkTC11MVhPWUtWU2Q5NW5UN09Kdl9fRUpoVVkwMG5seFV5a19kS0RMWE1jU01vaUdpR3lYRnExbQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsQTFhSjlvWXlKeTd6dTJuM0tvQ3VuVFNmajZ5ZmhQZVlIa3FWVU96aEoyQnlpWUpaM0VKYmhiX292Vl9uQWdqdE93c1A2TXY2OGdYXy0zTGhZUzBnUG1OWNIBeEFVX3lxTE9NcVRCZjktOG1WMDYtcFpoWml1UDdORUZjQlRiRHk0d1RVTE96OUdGZGhtbVE1N05jeXhMT0N1c1ROX25ZZGlqV01RR2xzamhTa2Q2Zm1YWEUxZFV3QXlYLUp1Y0I5dWVpZmZYejVFREV4YWNfNlByYQ?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HbHhuZ3R5eVFxVWEwTUZnc0xfMEU4dER4UXF1UTNwT0FVMXdpckR6RWlSbHlmdnRicGgzS05kb0JVSXQ4Sm9PM3UwODBvSWF6ek9KcHZQWHBKREtTX0d1MkxpdXNGYy00UFNZ?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "물가 상승",
+      "topic": "'물가 상승' 최근 변화와 독자가 챙길 점",
+      "post_type": "이슈 해설형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 39.6,
+      "related_keywords": [
+        "물가 상승",
+        "올해 물가 상승률",
+        "내년 물가 상승률",
+        "26년 물가 상승률 예상",
+        "물가 상승 원인",
+        "27년 물가 상승률 전망",
+        "물가 상승 이유",
+        "물가 상승 뉴스"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mNjR4OVl1OFRwOU5HT1BIV2tZeHVDczRWM2tycWVNZ2hkZmFqOWtZSktsaUNGdno5S25yT2Q3LVlNYy1NeEJRNEhnUDV0V0ZyeXRMOGlmSVpMRlp6dDRIU0d6MGh6MGJheVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LM1o0ZXgwcUhzOTl2QnBFWjZNUElRanEwV0hsbFdZTkxPbV83cTNhLXRjWGFObzU1VEV5blZCTXFGUGNsR0dGNTM5VENXR1prdkE?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaVXJ4aklQcWhieERZb0ZlLVlvcGxWRVFIWWpIemZqZ2N3Um1Kc0lkZDJrTzJ6SHgyUTM3SnM5aVp0OU5rbmt3WEtiMGYwQVJ4cGM2MlZRNFZHZ2fSAWBBVV95cUxQSmlkdEVDNjZiTmgtdWNHQ1NWaTdGU3E2bjB0QmJSajBtM1RVR3UtTTFIaVB6YnROVEktRDQ5NThna1g1ekVWQ256NnRvV3VzdDMzNmlHWWJmTXJsZW9kcEI?oc=5",
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHUnJPSmx1Qi1vcENld3JDS0Y1QXFiN001alNONkc4UFRqVG1rS2RWZGhaVk56bm5ncTFELWtSRWI3TTBlWlRIZW41clZuT3hr?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ha2NfMWhNcktaWUtKY25RUi05Y19NMXRNOTU3NVd6U21lanhTZ2Q1bUxZdjVmZFdjbmlvWFdsd0Z5UE12WWFHTGNwb2ctQ2RXNlNTODFwaks?oc=5"
+      ],
+      "demo": false
+    },
+    {
+      "keyword": "대출 규제",
+      "topic": "'대출 규제' 최근 변화와 독자가 챙길 점",
+      "post_type": "정책·규제 변경형",
+      "category": "거시·상시",
+      "ticker": "",
+      "score": 33.9,
+      "related_keywords": [
+        "신용대출 규제",
+        "전세대출 규제",
+        "사내대출 규제",
+        "가계대출 규제",
+        "주택담보대출 규제",
+        "부동산 대출 규제",
+        "2027년 전세대출 규제",
+        "내년 대출 규제"
+      ],
+      "source_links": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sMGRLSHp2SUYyaXRlMVV2NFIxWmRITzRxM082bVRHb0QxQTMxZUtUWHRIS0M5VEYzTVg0Z1pwRDNuUVFBeTRpWU9YbzI0bC1hTE94MC1GTURNTHhObU9zdndzTVA0Tnd4ckZ2enJR?oc=5",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nbUpKS3VHR2hEdV94elZfUldaZ1JUSVliamIxUGZha21wb2ZHTFVZUGVJeWRaQTJCSGVxM0F3ZzR5RFBPVTJpR1pWZHlKbFNLOWdRcQ?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE51SW8zUThiOE9QZkk5TG5rS2EzWTMwb3RKYzhzd1JFWjBOX0NNbnhWU0txaENPeXVDVXFqLU1KT3YyZGU2bGZKSVRoalIya09SV05TaUJBNzJXbDVJNGlPLWMycl81eno0ajNTZEpzUGZyMWvSAXdBVV95cUxPSmxXTmM0YTE4aVNUOW51WnJ6dksxX1BYai1NRFF5aXRfQUs2bG5hZGYtQ3RtMG03Y1NUemdzWndqR2VTRVZ4VnBlNS1FUU1scmh1UWtjMnNaMUpUM2lmY0pEYU83MkJMMkdpQzZIVWRTa3BVQXVVOA?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MV2E1YkF4N3pHLTBsRjZjSDhVNVlpakVMZXpsdWE4VzJxQkhiblQ1TnY2dVhzUnNFel9MQ3lSeTdKT01CRG94Q19vSW5IeG5VWndlTjlRQ0YtVXBGMW9YbUJwSGR5X0dQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYnpXeXZyUzg0VDQxbWhZUDV4T0FqSVdwZzVmemR1alZBLWp4QmNsam1INWVqWkJjQ0owekxTWk9yQ0wwUllFUHlaRWtUTXRHdXJzSWhab3F4cC1JY3Y2dnpvZU42ZWR3OWVmZUw3b2l0SW15bGE2eHcwWmJRTzRHWNIBgAFBVV95cUxPYnpXeXZyUzg0VDQxbWhZUDV4T0FqSVdwZzVmemR1alZBLWp4QmNsam1INWVqWkJjQ0owekxTWk9yQ0wwUllFUHlaRWtUTXRHdXJzSWhab3F4cC1JY3Y2dnpvZU42ZWR3OWVmZUw3b2l0SW15bGE2eHcwWmJRTzRHWA?oc=5"
+      ],
+      "demo": false
+    }
+  ]
+}
